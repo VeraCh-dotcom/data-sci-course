@@ -1,2 +1,2 @@
 # data-sci-course
-Depositoty all things data science
+Depository of all things data science
